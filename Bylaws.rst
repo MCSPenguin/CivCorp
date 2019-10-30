@@ -271,6 +271,14 @@ If a certificate is stolen, lost, or destroyed, the owned may request the
 corporation issue a new one. If this at cost to the corporation, the owner must
 compensate the corporation.
 
+Transfers
+================================================================================
+
+No holder of any of the shares of stock of the corporation may sell, transfer,
+or pledge any of the shares of stock of the corporation or any right or
+interest therein without the prior written consent of the corporation, upon
+duly authorized action of its Board of Directors.
+
 Dividends
 ================================================================================
 
