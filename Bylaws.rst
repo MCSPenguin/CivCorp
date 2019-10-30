@@ -1,6 +1,13 @@
-# Bylaws
+********************************************************************************
+Bylaws of CivCorp
+********************************************************************************
 
-## 1. Stockholders
+.. sectnum::
+
+.. contents::
+
+Stockholders
+********************************************************************************
 
 0. Stockholders meet quarterly to elect Directors.
 
@@ -24,7 +31,8 @@
 0. Stockholders can take an action without a meeting if a group of shareholders
    owning a majority of the shares agree in writing to taking that action.
 
-## 2. Board of Directors
+Board of Directors
+********************************************************************************
 
 0. The Board of Directors shall consist of a number, no fewer than three,
    determined by the Board of Directors.
@@ -39,7 +47,8 @@
 0. The Board of Directors can take an action without a meeting if a majority
    agree on that action in writing within 30 days of the first signature.
 
-## 3. Officers
+Officers
+********************************************************************************
 
 0. The Board of Directors must elect a President and Secretary after the
    quarterly stockholder meeting.
@@ -63,7 +72,8 @@
    stockholders and the Board of Directors in a minutes book, 2) keep a stock
    ledger, and 3) keep a list of all stockholders.
 
-## 4. Forms of Certificates
+Forms of Certificates
+********************************************************************************
 
 0. Stockholders may ask for a certificate stating the number of shares owned by
    that stockholder signed by the President and the Treasurer or Secretary.
@@ -72,7 +82,8 @@
    corporation issue a new one. If this at cost to the corporation, the owner
    must compensate the corporation.
 
-## 5. Records
+Records
+********************************************************************************
 
 0. The corporation shall keep 1) a stock ledger, 2) a list of all stockholders,
    and 3) a minutes book.
