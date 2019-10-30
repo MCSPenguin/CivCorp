@@ -15,7 +15,7 @@ Stockholders
    meetings at any time. The person who calls a meeting must specify an agenda.
    Stockholders can only vote on items on the meeting's agenda.
 
-#. Stockholders must be notified at least 1#.days before, and no more than 30
+#. Stockholders must be notified at least 10 days before, and no more than 30
    days before, any stockholder meeting.
 
 #. Meetings have quorum if any stockholders are present.
@@ -45,7 +45,7 @@ Board of Directors
    present.
 
 #. The Board of Directors can take an action without a meeting if a majority
-   agree on that action in writing within 3#.days of the first signature.
+   agree on that action in writing within 30 days of the first signature.
 
 Officers
 ********************************************************************************
