@@ -42,8 +42,7 @@
 ## 3. Officers
 
 0. The Board of Directors must elect a President and Secretary after the
-   quarterly stockholder meeting. ~~They may elect a Chairman of the Board and
-   a Vice Chairman of the Board of Directors.~~
+   quarterly stockholder meeting.
 
 0. Officers stay in office until election of a new officer, removal, or
    resignation. The Board of Directors may remove an officer at any time and
