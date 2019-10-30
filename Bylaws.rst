@@ -231,7 +231,7 @@ The Vice President may assume and perform the duties of the President in the
 absence or disability of the President or whenever the office of President is
 vacant.
 
-Dutries of the Secretary
+Duties of the Secretary
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 1. The Secretary shall attend all meetings of the stockholders and of the Board
