@@ -11,7 +11,7 @@ Stockholders
 
 #. Stockholders meet quarterly to elect Directors.
 
-#. The BOD and stockholders owning 1#. or more of the company may call special
+#. The BOD and stockholders owning 10% or more of the company may call special
    meetings at any time. The person who calls a meeting must specify an agenda.
    Stockholders can only vote on items on the meeting's agenda.
 
