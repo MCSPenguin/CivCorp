@@ -252,8 +252,7 @@ Duties of the Treasurer
    or the President.
 
 3. The Treasurer shall have custody, subject to the order of the Board of
-   Directors, shall have the custody of all funds and securities of the
-   Corporation.
+   Directors, of all funds and securities of the Corporation.
 
 Shares of Stocks
 ********************************************************************************
