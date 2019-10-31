@@ -118,7 +118,7 @@ Term of Office
 ================================================================================
 
 Directors shall serve until the next quarterly meeting of stockholders until
-his successor is elected and qualified, or until resignation or removal.
+a successor is elected and qualified, or until resignation or removal.
 
 Vacancies
 ================================================================================
