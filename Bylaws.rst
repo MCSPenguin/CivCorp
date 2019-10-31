@@ -109,7 +109,7 @@ Powers
 ================================================================================
 
 The business and affairs of the corporation shall be managed by or under the
-direction of the Board of Directors
+direction of the Board of Directors.
 
 Number
 ================================================================================
