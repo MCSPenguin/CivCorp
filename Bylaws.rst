@@ -102,8 +102,14 @@ the name of each stockholder.
 
 Such list shall be open to the examination of any stockholder.
 
-Board of Directors
+Directors
 ********************************************************************************
+
+Powers
+================================================================================
+
+The business and affairs of the corporation shall be managed by or under the
+direction of the Board of Directors
 
 Number
 ================================================================================
