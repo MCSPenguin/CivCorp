@@ -193,7 +193,7 @@ fixed by the Board of Directors.
 Tenure
 ================================================================================
 
-Officers shall hold office at the please of the Board of Directors and until
+Officers shall hold office at the pleasure of the Board of Directors and until
 their successors have been duly elected and qualified, unless sooner removed.
 
 Removal
