@@ -208,8 +208,7 @@ Removal
 
 Any officer may be removed from office at any time, either with or without
 case, by the affirmative vote of a majority of the directors in office at the
-time, by the unanimous written consent of the directors in office at the time,
-or by the President.
+time.
 
 Vacancies
 ================================================================================
