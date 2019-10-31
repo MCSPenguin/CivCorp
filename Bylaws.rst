@@ -20,9 +20,12 @@ Special Meetings
 
 1. The Board of Directors may call a special meeting at any time at a date and
    time of their choosing.
-   
-2. The caller of a special meeting must specify an agenda in the notice sent to
-   shareholders. Stockholders may only vote on items on the agenda.
+
+2. The notice for a special meeting shall set forth the matters proposed to be
+   acted on.
+
+3. Business transacted at a special meeting shall be limited to the purposes
+   stated in the notice.
 
 Advance Notice
 ================================================================================
@@ -54,7 +57,7 @@ Proxies
 ================================================================================
 
 1. Each stockholder may authorize another person to act for such stockholder by
-   proxy by an instrument in writing.
+   proxy by an instrument in writing filed with the Secretary.
 
 2. Proxies continue until the person revokes the proxy in writing.
 
@@ -69,7 +72,7 @@ Stockholder Action by Written Consent without a Meeting
    to authorize or take such action at a meeting.
 
 2. Every written consent shall bear the date of signature of each stockholder
-   who signs the consent. Written consents become invalid unless, within 30 days
+   who signs the consent. Written consents become invalid unless, within 7 days
    of the earliest dated consent, written consents signed by a sufficient
    number of stockholder to take an action are delivered to the corporation.
 
@@ -111,8 +114,8 @@ Number
 Term of Office
 ================================================================================
 
-Directors shall serve until the next annual meeting of stockholders until his
-successor is elected and qualified, or until resignation or removal.
+Directors shall serve until the next quarterly meeting of stockholders until
+his successor is elected and qualified, or until resignation or removal.
 
 Vacancies
 ================================================================================
@@ -231,7 +234,7 @@ The Vice President may assume and perform the duties of the President in the
 absence or disability of the President or whenever the office of President is
 vacant.
 
-Duties of the Secretary
+Dutries of the Secretary
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 1. The Secretary shall attend all meetings of the stockholders and of the Board
@@ -252,7 +255,8 @@ Duties of the Treasurer
    or the President.
 
 3. The Treasurer shall have custody, subject to the order of the Board of
-   Directors, of all funds and securities of the Corporation.
+   Directors, shall have the custody of all funds and securities of the
+   Corporation.
 
 Shares of Stocks
 ********************************************************************************
