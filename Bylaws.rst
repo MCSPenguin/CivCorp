@@ -57,11 +57,14 @@ Proxies
 ================================================================================
 
 1. Each stockholder may authorize another person to act for such stockholder by
-   proxy by an instrument in writing filed with the Secretary.
+   delivering a written proxy to the Secretary. 
 
-2. Proxies continue until the person revokes the proxy in writing.
-
-3. No such proxy shall be acted upon after six months from its date.
+2. No proxy shall be valid (i) after revocation thereof, or (ii) after the
+   expiration of six (6) months from the date thereof.
+   
+3. Stockholders may revoke a proxy by (i) delivering a writing to the Secretary
+   stating that the proxy is revoked, or (ii) by executing a subsequent proxy,
+   or (iii) by attending a meeting and voting in person.
 
 Stockholder Action by Written Consent without a Meeting
 ================================================================================
