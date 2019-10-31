@@ -249,9 +249,10 @@ Duties of the Secretary
    meetings of the stockholders and of all meetings of the Board of Directors
    and any committee thereof requiring notice. 
 
-3. The Secretary shall keep a record of the shareholders of the Corporation,
-   giving the names of all shareholders and the number of shares held by each
-   shareholder.
+3. The Secretary shall keep a record, to be known as the stock transfer ledger,
+   containing the names of all shareholders and the number of shares held by
+   each shareholder. Transfer of shares of the corporation shall be made on the
+   stock transfer ledger.
 
 Duties of the Treasurer
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -272,19 +273,6 @@ Duties of the Treasurer
 
 Shares of Stocks
 ********************************************************************************
-
-Form of Certificates
-================================================================================
-
-Stockholders may ask for a certificate stating the number of shares owned by
-that stockholder signed by the President and by the Treasurer or Secretary.
-
-Lost Certificates
-================================================================================
-
-If a certificate is stolen, lost, or destroyed, the owned may request the
-corporation issue a new one. If this at cost to the corporation, the owner must
-compensate the corporation.
 
 Transfers
 ================================================================================
