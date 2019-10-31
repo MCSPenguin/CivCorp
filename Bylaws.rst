@@ -194,7 +194,8 @@ Tenure
 ================================================================================
 
 Officers shall hold office at the pleasure of the Board of Directors and until
-their successors have been duly elected and qualified, unless sooner removed.
+their successors have been duly elected and qualified, or until resignation or
+removal.
 
 Removal
 ================================================================================
