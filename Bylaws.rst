@@ -249,18 +249,26 @@ Duties of the Secretary
    meetings of the stockholders and of all meetings of the Board of Directors
    and any committee thereof requiring notice. 
 
+3. The Secretary shall keep a record of the shareholders of the Corporation,
+   giving the names of all shareholders and the number of shares held by each
+   shareholder.
+
 Duties of the Treasurer
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-1. The Treasurer shall keep the books of account of the corporation.
+1. The Treasurer shall keep accounts of the corporation's properties and
+   business transactions, including accounts of its assets, liabilities,
+   receipts, and disbursements.
 
 2. The Treasurer shall render statements of the financial affairs of the
    corporation in such form and as often as required by the Board of Directors
    or the President.
 
-3. The Treasurer shall have custody, subject to the order of the Board of
-   Directors, shall have the custody of all funds and securities of the
+3. The Treasurer shall have custody of all funds and securities of the
    Corporation.
+
+4. The Treasurer shall disburse all funds of the corporation as directed by the
+   President or the Board of Directors.
 
 Shares of Stocks
 ********************************************************************************
@@ -297,3 +305,4 @@ Amendments
 
 The Board of Directors is expressly empowered to adopt, amend or repeal Bylaws
 of the corporation.
+
