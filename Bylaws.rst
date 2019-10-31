@@ -12,8 +12,8 @@ Meetings of Stockholders
 Regular Meetings
 ================================================================================
 
-Stockholders shall meet quarterly at a date and time designed by the Board of
-Directors to elect Directors.
+Stockholders shall meet quarterly, at a date and time designated by the Board of
+Directors, to elect Directors.
 
 Special Meetings
 ================================================================================
@@ -57,7 +57,7 @@ Proxies
 ================================================================================
 
 1. Each stockholder may authorize another person to act for such stockholder by
-   delivering a written proxy to the Secretary. 
+   delivering a written proxy to the Secretary.
 
 2. No proxy shall be valid (i) after revocation thereof, or (ii) after the
    expiration of six (6) months from the date thereof.
@@ -82,13 +82,13 @@ Stockholder Action by Written Consent without a Meeting
 Organization
 ================================================================================
 
-1. At every meeting of stockholders, the Chairman of the Board of Directors,
+1. At every meeting of stockholders, the Chairman of the Board of Directors
    shall act as chairman. If a Chairman has not been appointed or is absent, a
    chairman of the meeting chosen by a majority in interest of the
    stockholders, present in person or by proxy, shall act as chairman.
 
-2. The Board of Directors shall be entitled to make rules for the conduct of
-   meeting of stockholder as it shall deem necessary or convenient. Subject to
+2. The Board of Directors shall be entitled to make rules for the conduct of the
+   meeting of stockholders as it shall deem necessary or convenient. Subject to
    to such rules, the chairman of the meeting shall have the right to prescribe
    such rules.
 
@@ -233,9 +233,9 @@ of the Board of Directors.
 Duties of the President
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The President shall be the chief execute officer of the corporation and,
+The President shall be the chief executivet officer of the corporation and,
 subject to control of the Board of Directors, shall have control of the
-business and officer of the corporation.
+business and officers of the corporation.
 
 Duties of the Vice President
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
