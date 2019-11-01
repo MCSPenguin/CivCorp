@@ -46,8 +46,13 @@ Voting
 1. Each stockholder is entitled to one vote for each share of stock held by
    such stockholder.
 
-2. Directors shall be elected by a plurality of the voting power of the shares
-   present in person or represented by proxy.
+2. At each election for directors, every shareholder entitled to vote, in
+   person or by proxy, shall have the right vote at such election the number of
+   shares owned by such shareholder for as many persons as there are directors
+   to be elected, or to cumulate such shareholder's votes by giving one
+   candidate as many votes as the number of such directors multiplied by the
+   number of shares owned by such shareholder shall equal, or by distributing
+   such votes on the same principle among any number of candidates.
 
 3. In all matters other than the election of directors, the affirmative vote of
    a majority of the voting power of the shares present in person or
