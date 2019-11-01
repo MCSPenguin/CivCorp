@@ -179,8 +179,8 @@ thereto in writing.
 Organization
 ================================================================================
 
-At every meeting of the Directors, the Chairman of the Board of Directors, or
-in the absence of any such person, a chairman of the meeting chosen by a
+At every meeting of the Directors, the Chairman of the Board of Directors,
+or in the absence of any such person, a chairman of the meeting chosen by a
 majority of the directors present, shall preside over the meeting.
 
 Officers
@@ -189,9 +189,11 @@ Officers
 Officers Designated
 ================================================================================
 
-The officers of the corporation shall be a President, a Secretary, and one or
-more Treasurers. The corporation may also have, at the discretion of the Board
-of Directors, a Chairperson of the Board, and a Vice President.
+The officers of the corporation shall be a President, a Vice President, a
+Secretary, and a Treasurer. The corporation may also have, at the discretion of
+the Board of Directors, a Chairman of the Board, one or more assistant
+treasurers, and any such other officers as may be be elected from time to time
+by or under the authority of the Board of Directors.
 
 Officers shall be elected at the meeting of stockholders.
 
@@ -228,10 +230,10 @@ All officers of the corporation shall respectively perform such other duties
 and have such other powers as the Board of Directors shall designate from time
 to time.
 
-Duties of the Chairperson of the Board
+Duties of the Chairman of the Board
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The Chairperson of the Board shall preside at meetings of the stockholders and
+The Chairman of the Board shall preside at meetings of the stockholders and
 of the Board of Directors.
 
 Duties of the President
@@ -303,4 +305,3 @@ Amendments
 
 The Board of Directors is expressly empowered to adopt, amend or repeal Bylaws
 of the corporation.
-
