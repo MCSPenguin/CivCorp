@@ -47,7 +47,7 @@ Voting
    such stockholder.
 
 2. At each election for directors, every shareholder entitled to vote, in
-   person or by proxy, shall have the right vote at such election the number of
+   person or by proxy, shall have the right to vote at such election the number of
    shares owned by such shareholder for as many persons as there are directors
    to be elected, or to cumulate such shareholder's votes by giving one
    candidate as many votes as the number of such directors multiplied by the
