@@ -189,9 +189,9 @@ Officers
 Officers Designated
 ================================================================================
 
-The officers of the corporation shall include, if and when designated by the
-Board of Directors, the Chairperson of the Board, the President, the Vice
-President, the Secretary, and one or more Treasurers.
+The officers of the corporation shall be a President, a Secretary, and one or
+more Treasurers. The corporation may also have, at the discretion of the Board
+of Directors, a Chairperson of the Board, and a Vice President.
 
 Officers shall be elected at the meeting of stockholders.
 
