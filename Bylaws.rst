@@ -119,8 +119,8 @@ direction of the Board of Directors.
 Number
 ================================================================================
 
-1. The Board of Directors shall consist of a number, no fewer than three,
-   determined by the Board of Directors from time to time.
+1. The Board of Directors shall consist of a number determined by the Board of
+   Directors from time to time.
 
 2. No reduction of the authorized number of directors shall have the effect of
    removing any director before that director’s term of office expires.
