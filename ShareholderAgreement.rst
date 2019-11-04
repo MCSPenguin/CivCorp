@@ -39,5 +39,7 @@ forth the changes, signed by all of the Shareholders.
 In witness whereof, the parties have executed this Agreement on $DATE.
 
 $PARTY1
+
 $PARTY2
+
 CivCorp
