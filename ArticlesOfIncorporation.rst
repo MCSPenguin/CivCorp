@@ -64,6 +64,11 @@ Directors
 The business and affairs of this Corporation and the management shall be vested
 in a Board of Directors. Directors need not be stockholder of the corporation.
 
+Adoption of Bylaws
+********************************************************************************
+
+The Board of Directors of the Corporation shall adopt the initial Bylaws of the Corporation and may thereafter alter, amend, or repeal the Bylaws of the Corporation or may adopt new Bylaws, subject to the shareholders’ concurrent right to alter, amend, or repeal the Bylaws or to adopt new Bylaws. Any or all Bylaws altered, amended, repealed, or adopted by the shareholders shall not be altered, amended, re-enacted, or repealed by the Board of Directors of the Corporation.
+
 Initial Board of Directors
 ********************************************************************************
 
