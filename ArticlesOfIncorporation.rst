@@ -24,6 +24,9 @@ Authorized Shares
 The total number of shares which this corporation is authorized to issue is
 100,000 shares of common stock.
 
+The corporation shall from time to time increase the authorized amount of its
+common stock, as and when declared by the Board of Directors.
+
 Issuance of Stock
 ================================================================================
 
