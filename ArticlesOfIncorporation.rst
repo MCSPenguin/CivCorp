@@ -62,7 +62,7 @@ Directors
 ********************************************************************************
 
 The business and affairs of this Corporation and the management shall be vested
-in a Board of Directors. Directors need not be stockholder of the corporation.
+in a Board of Directors. Directors need not be a stockholder of the corporation.
 
 Adoption of Bylaws
 ********************************************************************************
