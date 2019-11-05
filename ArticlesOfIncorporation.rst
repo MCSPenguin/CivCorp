@@ -67,7 +67,7 @@ in a Board of Directors. Directors need not be a stockholder of the corporation.
 Adoption of Bylaws
 ********************************************************************************
 
-The Board of Directors of the Corporation shall adopt the initial Bylaws of the Corporation and may thereafter alter, amend, or repeal the Bylaws of the Corporation or may adopt new Bylaws, subject to the shareholders’ concurrent right to alter, amend, or repeal the Bylaws or to adopt new Bylaws. Any or all Bylaws altered, amended, repealed, or adopted by the shareholders shall not be altered, amended, re-enacted, or repealed by the Board of Directors of the Corporation.
+The Board of Directors is expressly authorized to make, adopt, repeal, alter, amend and rescind, in any respect, the Bylaws of the Corporation (the "Bylaws") by a resolution adopted by a majority of the directors.
 
 Initial Board of Directors
 ********************************************************************************
