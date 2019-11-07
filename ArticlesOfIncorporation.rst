@@ -13,7 +13,7 @@ Incorporation.
 Name
 ********************************************************************************
 
-The name of the torporation is to be CivCorp (hereinafter, the "Corporation").
+The name of the corporation is to be CivCorp (hereinafter, the "Corporation").
 
 Capital Stock
 ********************************************************************************
@@ -76,7 +76,7 @@ by a resolution adopted by a majority of the directors.
 Initial Board of Directors
 ********************************************************************************
 
-The names of the person who are to serve as directors until he first annual
+The names of the persons who are to serve as directors until the first annual
 meeting of shareholders until their successors are elected and qualified are:
 
 $BOARDMEMBER1
