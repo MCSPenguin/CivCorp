@@ -83,6 +83,12 @@ $BOARDMEMBER1
 
 $BOARDMEMBER2
 
+Facsimile Signature
+********************************************************************************
+
+This Agreement may be executed by signing a Written Book in-game with a link to
+this Agreement.
+
 Incorporators
 ********************************************************************************
 
