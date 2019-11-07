@@ -290,7 +290,7 @@ Form of Certificates
 ================================================================================
 
 Stockholders may ask for a certificate stating the number of shares owned by
-that stockholder signed by the President and by the Treasurer or Secretary.
+that stockholder signed by the President or Secretary.
 
 Lost Certificates
 ================================================================================
