@@ -289,8 +289,9 @@ Shares of Stocks
 Form of Certificates
 ================================================================================
 
-Stockholders may ask for a certificate stating the number of shares owned by
-that stockholder signed by the President or Secretary.
+Every stockholder shall be entitled to have a certificate signed in the name of
+the corporation by the President or Secretary certifying the number of shares
+owned by such shareholder.
 
 Lost Certificates
 ================================================================================
