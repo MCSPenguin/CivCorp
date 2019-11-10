@@ -83,11 +83,11 @@ $BOARDMEMBER1
 
 $BOARDMEMBER2
 
-Facsimile Signature
+Digital Signature
 ********************************************************************************
 
-This Agreement may be executed by signing a Written Book in-game with a link to
-this Agreement.
+This Agreement may be executed by digital signature and a digital signature
+shall constitute an original for all purposes.
 
 Incorporators
 ********************************************************************************
