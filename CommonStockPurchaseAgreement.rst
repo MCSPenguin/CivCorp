@@ -53,3 +53,20 @@ under this Agreement, shall be effective unless in writing signed by the parties
 to this Agreement.  No delay or failure to require performance of any provision
 of this Agreement shall constitute a waiver of that provision as to that or any
 other instance.
+
+----
+
+The parties have executed this Common Stock Purchase Agreement as of the date
+first set forth above:
+
+THE COMPANY:
+CivCorp
+By: $SIGNATURE
+Name:
+Title:
+
+Purchaser:
+$NAME
+By: $SIGNATURE
+Name:
+Title:
