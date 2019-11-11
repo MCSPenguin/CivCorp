@@ -59,14 +59,22 @@ other instance.
 The parties have executed this Common Stock Purchase Agreement as of the date
 first set forth above:
 
-THE COMPANY:
+**THE COMPANY:**
+
 CivCorp
+
 By: $SIGNATURE
+
 Name:
+
 Title:
 
-Purchaser:
+**PURCHASER:**
+
 $NAME
+
 By: $SIGNATURE
+
 Name:
+
 Title:
