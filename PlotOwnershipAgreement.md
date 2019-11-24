@@ -37,7 +37,7 @@ So long as Plot Owner pays Dues and observes all other terms and conditions of t
 
 ## Surrender of premises
 
-Plot Owner agrees that prior to the termination of this Agreement, Plot Owner will surrender the Premises in Good Condition (as defined in the Basic Agreement Provision) except damage without fault or liability of Plot Owner.
+Plot Owner agrees that prior to the termination of this Agreement, Plot Owner will surrender the Premises in Good Condition (as defined in the Basic Agreement Provision) unless Plot Manager, at their exclusive discretion, grants an exception to this requirement.
 
 ## Disturbances
 
